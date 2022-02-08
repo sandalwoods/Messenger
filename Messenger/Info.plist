@@ -31,14 +31,14 @@
       <dict>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>fb2694535524174854</string>
+        <string>fbappid</string>
       </array>
       </dict>
     </array>
     <key>FacebookAppID</key>
-    <string>2694535524174854</string>
+    <string>appid</string>
     <key>FacebookClientToken</key>
-    <string>0bf6d4527e2f89b7c3f503a4b26ad670</string>
+    <string>token</string>
     <key>FacebookDisplayName</key>
     <string>My Messenger</string>
     
